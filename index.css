@@ -1,0 +1,23 @@
+body {
+    background-color:black;
+    color: white;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 20px;
+}
+
+head img{
+    
+}
+.center{
+    text-align: center;
+}
+footer img{
+    width: 50;
+    height: ;
+}
